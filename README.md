@@ -6,7 +6,7 @@ Trip duration is the most fundamental measure in all modes of transportation. He
 
 #### Dataset used - SeoulBikeData.csv
 
-### Following questions were in this Project:
+### Following questions were explored in this project:
 
 #### 1. What are the factors that influence the number of bikes rented?
 
